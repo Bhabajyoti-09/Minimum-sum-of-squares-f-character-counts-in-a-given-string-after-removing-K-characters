@@ -1,0 +1,1 @@
+# Minimum-sum-of-squares-f-character-counts-in-a-given-string-after-removing-K-characters
